@@ -3,7 +3,7 @@ name: Location Issues
 about: Reasons for vetoing specific locations
 title: ''
 labels: locations
-assignees: ''
+assignees: n1s
 
 ---
 

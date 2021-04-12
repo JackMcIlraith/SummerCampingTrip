@@ -3,7 +3,7 @@ name: Entertainment Ideas
 about: 'Submit suggestions for trip entertainment '
 title: ''
 labels: Entertainment
-assignees: ''
+assignees: JackMcIlraith
 
 ---
 
